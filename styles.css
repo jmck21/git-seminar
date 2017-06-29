@@ -1,7 +1,11 @@
-h1 {
+h1 
+{
     text-align: center;
+    font-size: large;
 }
 
-ul {
-    
+ul 
+{
+    text-align: left;
+    font-size: medium;
 }
